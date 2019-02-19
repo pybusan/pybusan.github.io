@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 시작하세요! 스터디!
-author:
+author: 노태환
 tags: study
 ---
 
