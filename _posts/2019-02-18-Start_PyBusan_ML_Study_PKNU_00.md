@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 시작하세요! 스터디!
+title: PyBusan, 부경대 부근 머신러닝 스터디 시작!
 author: 현재웅
 tags: study
 ---
