@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PyBusan, 서면 부근 머신러닝 스터디!
+title: PyBusan, 서면 부근 머신러닝 스터디 7주차
 author: 조덕명
 tags: study
 ---
