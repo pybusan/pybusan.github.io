@@ -1,19 +1,24 @@
 ---
 layout: post
-title: PyBusan, 부경대 부근 머신러닝 스터디 시작!
-author: 현재웅
-tags: study
+title: PyCon 2019, 부산 뒷풀이
+author: 한상곤
+tags: conference
 ---
 
-> 해당 스터디는 종료 되었습니다.
+안녕하세요. [PyBusan](mailto:pybusan@gmail.com)입니다. 2019년 2월 부터 진행된 스터디가 여름의 끝자락에서 종료되었고, 시원한 바람이 부는 9월이 되었습니다. 이번 9월에는 부산 파이썬 유저 중에서 서울에서 진행된 파이콘 2019에 참석하셨던 분들의 참관기와 소소한 경험을 공유하는 작은 자리를 마련했습니다.
 
-안녕하세요. PyBusan에서 경성대, 부경대 부근 머신러닝 스터디를 진행하게된 [현재웅](mailto:jaeung@me.com)입니다
+참가신청은 [이벤터스](https://event-us.kr/pybusan/event/10027)에서 진행 중 입니다.
 
-- 장소 : 경성대, 부경대 근처
-- 전체 일정 : 3월 부터 약 10주간 진행
-- 세부 일정 : 일주일에 한 번, 2~3시간 정도 예정, 요일은 스터디 멤버와 협의
+* 장소 : 부산콘텐츠코리아랩 금정서브센터
+  * 해운대에서 진행되는 행사가 아니니 주의하세요!
+* 날짜 : 2019년 9월 7일(토), 오후 1시 ~ 3시(2시간)
+* 인원 : 15명
+* 내용
+  * 민정일님 - 튜토리얼
+  * 안바울님 - 스프린트
+  * 현재웅님 - 세션(대학생)
+  * 조덕명님 - 세션(일반개발자)
+  * 한상곤님 - 세션(발표)
 
-자세한 사항은 [구글폼](https://docs.google.com/forms/d/e/1FAIpQLScBCsaG_8gxONUKQ_lLXOPM9_78zbvtm0NnvHch47E7tiZMIw/viewform?fbclid=IwAR00qxAiApp_wXu5VKCiPs0x7a3igtfNUmX31nOUSEMHVmfkTMjV2Rdvgbw)에 있습니다!
-관심 있으신 분들 많이 지원해주세요😃
-
-해당 스터디는 `경성대, 부경대 부근` 에서 진행됩니다. 부산대 부근에서 진행되는 스터디는 해당 게시글을 참고해주세요.
+* 오시는 방법
+![Alt text](http://cklbusan.com/upload/contents/cklbusan__b6e6c00baf05c6302e81d199ac015078.jpg)
