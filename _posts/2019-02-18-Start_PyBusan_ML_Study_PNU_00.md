@@ -5,6 +5,8 @@ author: 노태환
 tags: study
 ---
 
+> 해당 스터디는 종료 되었습니다.
+
 안녕하세요. PyBusan에서 부산대 부근 머신러닝 스터디 진행을 맡게된 [노태환](mailto:taehwanno.dev@gmail.com )이라고 합니다.
 
 - 장소 : 부산대 금정구 근처 예정
